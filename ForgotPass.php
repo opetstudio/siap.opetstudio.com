@@ -477,7 +477,7 @@ $log_msg = DBGet(DBQuery("SELECT MESSAGE FROM login_message WHERE DISPLAY='Y'"))
                                         </div>-->
                 </div>
                 <footer>
-                    openSIS is a product of Open Solutions for Education, Inc. (<a href='http://www.os4ed.com' target='_blank'>OS4ED</a>) and is licensed under the <a href='http://www.gnu.org/licenses/gpl.html' target='_blank'>GPL license</a>.
+                Powered by <a href="https://www.erevnaraya.co.id" target="_blank">PT. Erevna Raya Teknologi</a>
                 </footer>
             </div>
         </section>
